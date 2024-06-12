@@ -1,0 +1,9 @@
+packages:
+  darwin:
+    brews:
+    - 'git'
+    - 'starship'
+    casks:
+    - 'arc'
+    - 'warp'
+    - 'raycast'
