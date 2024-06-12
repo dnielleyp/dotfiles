@@ -7,3 +7,4 @@ packages:
     - 'arc'
     - 'warp'
     - 'raycast'
+    - 'visual-studio-code'
