@@ -1,0 +1,1 @@
+alias ep="code ~/.local/share/chezmoi/.chezmoidata/packages.yaml"

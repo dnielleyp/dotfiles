@@ -1,10 +1,32 @@
 packages:
   darwin:
+    taps:
+    - 'common-fate/granted'
     brews:
     - 'git'
     - 'starship'
+    - 'go-task'
+    - 'granted'
+    - 'jq'
+    - 'coreutils'
+    - 'tree'
+    - 'watch'
+    - 'wget'
+    - 'z'
+    - 'adr-tools'
+    - 'fzf'
+    - 'yq'
+    - 'uv'
+    - 'kubectx'
+    - 'direnv'
+
     casks:
     - 'arc'
     - 'warp'
     - 'raycast'
     - 'visual-studio-code'
+    - 'docker'
+    - 'jetbrains-toolbox'
+    - 'google-drive'
+    - 'keepassxc'
+
